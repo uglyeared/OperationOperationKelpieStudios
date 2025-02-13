@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2203493\\onedrive - abertay university\\desktop\\pickup 5.4 5.4 - 2 - copy (2) 5.4 5.4 5.4\\source\\pickup\\pickup.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2203493\\onedrive - abertay university\\desktop\\pickup 5.4 5.4 - 2 - copy (2) 5.4 5.4 5.4\\intermediate\\build\\win64\\x64\\pickupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\2203493\\onedrive - abertay university\\desktop\\pickup 5.4 5.4 - 2 - copy (2) 5.4 5.4 5.4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pickup\\definitions.pickup.h",
+            "c:\\users\\2203493\\onedrive - abertay university\\desktop\\pickup 5.4 5.4 - 2 - copy (2) 5.4 5.4 5.4\\source\\pickup\\pickup.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
