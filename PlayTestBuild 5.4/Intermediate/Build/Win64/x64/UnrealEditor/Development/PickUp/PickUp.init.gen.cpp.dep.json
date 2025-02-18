@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "m:\\year 3\\operationoperationkelpiestudios\\playtestbuild 5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\pickup\\uht\\pickup.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "m:\\year 3\\operationoperationkelpiestudios\\playtestbuild 5.4\\intermediate\\build\\win64\\x64\\pickupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "m:\\year 3\\operationoperationkelpiestudios\\playtestbuild 5.4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pickup\\definitions.pickup.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
