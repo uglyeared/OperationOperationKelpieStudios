@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/GitHubHell/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Materials/M_Master.uasset",
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/GitHubHell/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/GitHubHell/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Meshes/Furniture/Drawers/O_Drawers_O_DrawerBody.uasset",
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/GitHubHell/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Meshes/Furniture/Drawers/O_Drawers_O_DrawerShelf.uasset",
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/GitHubHell/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Textures/Drawers/T_Drawers_BC.uasset",
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/GitHubHell/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Textures/Drawers/T_Drawers_Masks.uasset",
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/GitHubHell/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Textures/Drawers/T_Drawers_N.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Documents/Unreal Projects/PickUp/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Documents/Unreal Projects/PickUp/Content/Items/PickUpObject.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Documents/Unreal Projects/PickUp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XK/L8ATU6RNOZUMGG26PP8YWX.uasset",

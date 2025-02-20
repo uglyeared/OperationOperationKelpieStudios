@@ -1,4 +1,4 @@
-"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.cpp"
+"E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.cpp"
 /I "."
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
@@ -9,10 +9,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/Yc"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h"
-/Fp"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h.pch"
-/Fo"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h.obj"
-/sourceDependencies "C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h.dep.json"
+/Yc"E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h"
+/Fp"E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h.pch"
+/Fo"E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h.obj"
+/sourceDependencies "E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Core\SharedPCH.Core.RTTI.Cpp20.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

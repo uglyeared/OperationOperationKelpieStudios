@@ -207,6 +207,7 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AudioEditor\UHT"
 /I "Editor\AudioEditor\Classes"
 /I "Editor\AudioEditor\Public"
+/I "ThirdParty\libSampleRate\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\LevelEditor\UHT"
 /I "Editor\LevelEditor\Public"
 /I "Editor\CommonMenuExtensions\Public"
@@ -280,8 +281,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\UnrealEditor\Inc\PickUp\UHT"
-/I "C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Source"
+/I "E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\UnrealEditor\Inc\PickUp\UHT"
+/I "E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Source"
 /external:W0
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"

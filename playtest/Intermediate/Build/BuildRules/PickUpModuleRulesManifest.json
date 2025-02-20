@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\2203493\\Downloads\\PickUp_PlayTestVer\\PickUp_PlayTestVer 5.4\\Source\\PickUp\\PickUp.Build.cs",
-		"C:\\Users\\2203493\\Downloads\\PickUp_PlayTestVer\\PickUp_PlayTestVer 5.4\\Source\\PickUp.Target.cs",
-		"C:\\Users\\2203493\\Downloads\\PickUp_PlayTestVer\\PickUp_PlayTestVer 5.4\\Source\\PickUpEditor.Target.cs"
+		"E:\\UNI\\3RD YEAR\\KELPIESTUDIOS\\GitHubHell\\OperationOperationKelpieStudios\\playtest\\Source\\PickUp\\PickUp.Build.cs",
+		"E:\\UNI\\3RD YEAR\\KELPIESTUDIOS\\GitHubHell\\OperationOperationKelpieStudios\\playtest\\Source\\PickUp.Target.cs",
+		"E:\\UNI\\3RD YEAR\\KELPIESTUDIOS\\GitHubHell\\OperationOperationKelpieStudios\\playtest\\Source\\PickUpEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.3"
 }
