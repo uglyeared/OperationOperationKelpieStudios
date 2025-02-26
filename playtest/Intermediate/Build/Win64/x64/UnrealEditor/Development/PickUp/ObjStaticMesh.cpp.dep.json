@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\rldm4\\documents\\github\\operationoperationkelpiestudios\\playtest\\source\\pickup\\objstaticmesh.cpp",
+        "Source": "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\source\\pickup\\objstaticmesh.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\rldm4\\documents\\github\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\pickupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\pickupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "c:\\users\\rldm4\\documents\\github\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pickup\\definitions.pickup.h",
-            "c:\\users\\rldm4\\documents\\github\\operationoperationkelpiestudios\\playtest\\source\\pickup\\objstaticmesh.h",
-            "c:\\users\\rldm4\\documents\\github\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\unrealeditor\\inc\\pickup\\uht\\objstaticmesh.generated.h"
+            "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pickup\\definitions.pickup.h",
+            "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\source\\pickup\\objstaticmesh.h",
+            "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\unrealeditor\\inc\\pickup\\uht\\objstaticmesh.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
