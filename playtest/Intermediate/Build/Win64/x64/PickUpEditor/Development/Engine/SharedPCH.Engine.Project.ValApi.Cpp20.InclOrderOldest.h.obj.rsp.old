@@ -1,4 +1,4 @@
-"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.cpp"
+"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT"
 /I "Runtime\Engine\Classes"
@@ -208,6 +208,7 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AudioEditor\UHT"
 /I "Editor\AudioEditor\Classes"
 /I "Editor\AudioEditor\Public"
+/I "ThirdParty\libSampleRate\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\LevelEditor\UHT"
 /I "Editor\LevelEditor\Public"
 /I "Editor\CommonMenuExtensions\Public"
@@ -289,10 +290,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/Yc"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
-/sourceDependencies "C:\Users\2203493\Downloads\PickUp_PlayTestVer\PickUp_PlayTestVer 5.4\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.dep.json"
+/Yc"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+/sourceDependencies "M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

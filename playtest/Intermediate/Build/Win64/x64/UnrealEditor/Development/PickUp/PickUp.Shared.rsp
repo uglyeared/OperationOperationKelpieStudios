@@ -281,8 +281,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\UnrealEditor\Inc\PickUp\UHT"
-/I "E:\UNI\3RD YEAR\KELPIESTUDIOS\GitHubHell\OperationOperationKelpieStudios\playtest\Source"
+/I "C:\Users\2203493\OneDrive - Abertay University\Desktop\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\UnrealEditor\Inc\PickUp\UHT"
+/I "C:\Users\2203493\OneDrive - Abertay University\Desktop\OperationOperationKelpieStudios\playtest\Source"
 /external:W0
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"
