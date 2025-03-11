@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\uni\\3rd year\\kelpiestudios\\unrealpls\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.cpp",
+        "Source": "c:\\users\\2303207\\downloads\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\uni\\3rd year\\kelpiestudios\\unrealpls\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\pickupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\2303207\\downloads\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\pickupeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "e:\\uni\\3rd year\\kelpiestudios\\unrealpls\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pickup\\definitions.pickup.h",
-            "e:\\uni\\3rd year\\kelpiestudios\\unrealpls\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.h"
+            "c:\\users\\2303207\\downloads\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pickup\\definitions.pickup.h",
+            "c:\\users\\2303207\\downloads\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
