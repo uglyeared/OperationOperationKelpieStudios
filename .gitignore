@@ -73,3 +73,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+playtest/Saved/Config/CrashReportClient/UECC-Windows-44CB12C24B40BA4D4411E0881582E2E7/CrashReportClient.ini
