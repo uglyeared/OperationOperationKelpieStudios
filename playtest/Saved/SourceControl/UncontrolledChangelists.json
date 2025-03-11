@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2302574/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjectBlueprints/Furnature/BP_Box.uasset",
+				"C:/Users/2302574/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjectBlueprints/Furnature/BP_Stretcher.uasset",
+				"C:/Users/2302574/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjectBlueprints/Furnature/BP_FlatLocker.uasset",
+				"C:/Users/2302574/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"C:/Users/2302574/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjectBlueprints/Furnature/BP_ClosedDrawer.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/BP_RemovableItem.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/GameInstances/GameInstanceVar.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AIBT_Creature.uasset",
