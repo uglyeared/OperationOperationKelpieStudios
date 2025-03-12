@@ -74,3 +74,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 *.log
 /playtest/Saved/Config/CrashReportClient
+/playtest/Saved/Telemetry
