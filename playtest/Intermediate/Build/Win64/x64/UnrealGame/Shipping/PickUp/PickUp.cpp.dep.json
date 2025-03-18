@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.cpp",
+        "Source": "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.cpp",
         "ProvidedModule": "",
-        "PCH": "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\pickup\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\pickup\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\pickup\\definitions.pickup.h",
-            "m:\\year 3\\git\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.h"
+            "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\pickup\\definitions.pickup.h",
+            "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\source\\pickup\\pickup.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
