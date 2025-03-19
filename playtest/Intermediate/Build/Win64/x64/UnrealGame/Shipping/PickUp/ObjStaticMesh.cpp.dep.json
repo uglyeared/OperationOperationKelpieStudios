@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\source\\pickup\\objstaticmesh.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\pickup\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\pickup\\definitions.pickup.h",
+            "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\source\\pickup\\objstaticmesh.h",
+            "c:\\users\\2203493\\onedrive - abertay university\\desktop\\opop\\operationoperationkelpiestudios\\playtest\\intermediate\\build\\win64\\unrealgame\\inc\\pickup\\uht\\objstaticmesh.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
