@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/BP_Creature.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/SoundCues/EnemySteps.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/SoundCues/StepsTest.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/EnemySteps.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjRemovalBlueprints/BP_RemovableItem.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/SoundCues/ShipCreak.uasset",
 				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
 				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Injector.uasset",
 				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/SoundCues/Injection.uasset",
