@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\2203493\\OneDrive - Abertay University\\Desktop\\OPOP\\OperationOperationKelpieStudios\\playtest\\Source\\PickUp\\PickUp.Build.cs",
-		"C:\\Users\\2203493\\OneDrive - Abertay University\\Desktop\\OPOP\\OperationOperationKelpieStudios\\playtest\\Source\\PickUp.Target.cs",
-		"C:\\Users\\2203493\\OneDrive - Abertay University\\Desktop\\OPOP\\OperationOperationKelpieStudios\\playtest\\Source\\PickUpEditor.Target.cs"
+		"C:\\Users\\2203493\\OneDrive - Abertay University\\Desktop\\OperationOperationKelpieStudios\\playtest\\Source\\PickUp\\PickUp.Build.cs",
+		"C:\\Users\\2203493\\OneDrive - Abertay University\\Desktop\\OperationOperationKelpieStudios\\playtest\\Source\\PickUp.Target.cs",
+		"C:\\Users\\2203493\\OneDrive - Abertay University\\Desktop\\OperationOperationKelpieStudios\\playtest\\Source\\PickUpEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
