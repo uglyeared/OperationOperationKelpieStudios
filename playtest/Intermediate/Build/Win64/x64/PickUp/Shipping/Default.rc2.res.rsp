@@ -64,7 +64,7 @@
 /DUBT_COMPILED_TARGET=Game
 /DUE_APP_NAME="UnrealGame"
 /DUE_WARNINGS_AS_ERRORS=0
-/DUE_ENGINE_DIRECTORY="../../../../../../../../Program Files/Epic Games/UE_5.4.4/Engine/"
+/DUE_ENGINE_DIRECTORY="C:/Program Files/Epic Games/UE_5.4.4/Engine/"
 /DNDIS_MINIPORT_MAJOR_VERSION=0
 /DWIN32=1
 /D_WIN32_WINNT=0x0601
@@ -81,9 +81,9 @@
 /DBUILT_FROM_CHANGELIST=35576357
 /DBRANCH_NAME=++UE5+Release-5.4
 /DBUILD_VERSION=++UE5+Release-5.4-CL-35576357
-/DBUILD_ICON_FILE_NAME="\"C:\\Users\\2203493\\OneDrive - Abertay University\\Desktop\\OperationOperationKelpieStudios\\playtest\\Build\\Windows\\Application.ico\""
+/DBUILD_ICON_FILE_NAME="\"M:\\Year 3\\git\\OperationOperationKelpieStudios\\playtest\\Build\\Windows\\Application.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="First Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=PickUp
-/fo "C:\Users\2203493\OneDrive - Abertay University\Desktop\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Default.rc2.res"
+/fo "M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
