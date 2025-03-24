@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_EnemyDoorCopy.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjectBlueprints/Furnature/BP_Vent.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_Vent.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/BP_Creature.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AIBT_Creature.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AI_Tasks/BC_DoorCloser.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AI_Tasks/BC_DoorOpen.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AI_Tasks/BC_Door2Open.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AI_Tasks/BC_Door1Open.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_EnemyDoor2Copy_Child.uasset",
 				"C:/Users/RLDM4/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/RLDM4/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_EnemyDoorCopy.uasset",
 				"C:/Users/RLDM4/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap"
