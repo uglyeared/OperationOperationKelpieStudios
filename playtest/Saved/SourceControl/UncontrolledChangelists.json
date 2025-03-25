@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Tooltip.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_TaskHud.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/Levels/Level_MainMenu.umap",
 				"C:/Users/2203493/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/2203493/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
 				"C:/Users/2203493/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Tooltip.uasset",
