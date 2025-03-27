@@ -9,7 +9,12 @@
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Timer.uasset",
-				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_PlayerUI.uasset"
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_PlayerUI.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/MiniMap/MiniMapMaterials/Sprite_P1.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/MiniMap/MiniMapMaterials/Sprite_P2.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/MiniMap/MiniMap_TexRendTarget.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_MiniMap.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_TaskHud.uasset"
 			]
 		}
 	]
