@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Tooltip.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools_Scalpel.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/ToolTips/Bin.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/ToolTips/Forceps.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/ToolTips/Lockers.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/ToolTips/Scalpel.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/ToolTips/Syringe.uasset",
 				"E:/UNI/3RD YEAR/KELPIESTUDIOS/UNREALPLS/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Textures/Furniture/Spawner/T_Spawner_BC.uasset",
 				"E:/UNI/3RD YEAR/KELPIESTUDIOS/UNREALPLS/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Textures/Furniture/Spawner/T_Spawner_Masks.uasset",
 				"E:/UNI/3RD YEAR/KELPIESTUDIOS/UNREALPLS/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Textures/Furniture/Spawner/T_Spawner_N.uasset",
@@ -152,8 +161,7 @@
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/Levels/Level_MainMenu.umap",
 				"E:/UNI/3RD YEAR/KELPIESTUDIOS/UNREALPLS/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Materials/M_TEMPWALL.uasset",
 				"E:/UNI/3RD YEAR/KELPIESTUDIOS/UNREALPLS/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Materials/M_TEMPFLOOR.uasset",
-				"E:/UNI/3RD YEAR/KELPIESTUDIOS/UNREALPLS/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Materials/M_TEMPCEILING.uasset",
-				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap"
+				"E:/UNI/3RD YEAR/KELPIESTUDIOS/UNREALPLS/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Materials/M_TEMPCEILING.uasset"
 			]
 		}
 	]
