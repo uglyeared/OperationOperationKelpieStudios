@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2303207/Downloads/Git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
+				"C:/Users/2303207/Downloads/Git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjRemovalBlueprints/BP_BodyObjectSpawner.uasset",
+				"C:/Users/2303207/Downloads/Git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"C:/Users/2303207/Downloads/Git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_Vent.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OPOP/OperationOperationKelpieStudios/playtest/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OPOP/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OPOP/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_RespawnPoint.uasset",
