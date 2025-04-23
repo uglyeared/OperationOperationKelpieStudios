@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Timer.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_SoundMonitor.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/Hud/noise-warning-full-opacity.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/Hud/noise-warning-mid-opacity.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Assets/Hud/noise-warning-low-opacity.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/MiniMap/BP_MapCam.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AI_Tasks/BC_CallFalse.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_TaskHud.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_BesidePatientCollider.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/OldInjectVer/BP_InjectorOld.uasset",
 				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
 				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset"
 			]
