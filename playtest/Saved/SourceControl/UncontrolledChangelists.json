@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
+				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/Levels/Level_MainMenu.umap",
+				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/OldInjectVer/BP_InjectorOld.uasset",
+				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/VFX/NS_Sparks.uasset",
+				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Objects/Furniture/OpBed/O_OpBed_OpBed.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Timer.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_SoundMonitor.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
@@ -18,12 +24,6 @@
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_TaskHud.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_BesidePatientCollider.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/OldInjectVer/BP_InjectorOld.uasset",
-				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_RespawnPoint.uasset",
-				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_Vent.uasset",
-				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Input/IMC_Default.uasset",
-				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
-				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/Levels/Level_MainMenu.umap",
-				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/OldInjectVer/BP_InjectorOld.uasset",
 				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
 				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset"
 			]
