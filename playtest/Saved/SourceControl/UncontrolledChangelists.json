@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/SoundCues/BinRelease.uasset",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/SoundCues/PlayerBreathing.uasset",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/Audio/SoundCues/GrabObject.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/Levels/Level_MainMenu.umap",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/OldInjectVer/BP_InjectorOld.uasset",
