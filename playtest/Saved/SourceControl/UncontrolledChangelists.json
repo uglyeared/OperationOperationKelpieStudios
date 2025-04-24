@@ -10,7 +10,8 @@
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AIBT_Creature.uasset",
 				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/AI_Control.uasset",
-				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Credits.uasset"
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Credits.uasset",
+				"M:/Year 3/git/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/UI/UI_Help.uasset"
 			]
 		}
 	]
