@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ObjRemovalBlueprints/BP_BodyObjectSpawner.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",
+				"C:/Users/2303207/OneDrive - Abertay University/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap"
+			]
+		}
+	]
+}
