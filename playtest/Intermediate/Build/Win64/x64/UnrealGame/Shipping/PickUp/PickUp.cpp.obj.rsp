@@ -1,11 +1,11 @@
-"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Source\PickUp\PickUp.cpp"
-/FI"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\Definitions.PickUp.h"
-/Yu"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\PickUp.cpp.obj"
-/sourceDependencies "M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\PickUp.cpp.dep.json"
-@"M:\Year 3\git\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\PickUp.Shared.rsp"
+"E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Source\PickUp\PickUp.cpp"
+/FI"E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\Definitions.PickUp.h"
+/Yu"E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUp\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\PickUp.cpp.obj"
+/sourceDependencies "E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\PickUp.cpp.dep.json"
+@"E:\UNI\3RD YEAR\KELPIESTUDIOS\UNREALPLS\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealGame\Shipping\PickUp\PickUp.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
