@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/3d_Assets/Objects/Characters/Creature/Animations/A_Walk_v2.uasset",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/AI/BP_Creature.uasset",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/mitch/Documents/GitHub/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap"
+			]
+		}
+	]
+}
