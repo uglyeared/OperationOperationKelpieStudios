@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Untitled.umap",
+				"D:/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/GameInstances/GameInstanceVar.uasset",
+				"D:/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_Generator.uasset",
+				"D:/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/RoomItemBlueprints/BP_ToggleLights.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Maps/Level_Game.umap",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/PlayerBlueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/2203493/OneDrive - Abertay University/Desktop/OperationOperationKelpieStudios/playtest/Content/FirstPerson/Blueprints/ToolsBlueprints/BP_Tools.uasset",

@@ -1,11 +1,11 @@
-"C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Source\PickUp\ObjStaticMesh.cpp"
-/FI"C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\Definitions.PickUp.h"
-/Yu"C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\ObjStaticMesh.cpp.obj"
-/sourceDependencies "C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\ObjStaticMesh.cpp.dep.json"
-@"C:\Users\2203493\OneDrive - Abertay University\Documents\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\PickUp.Shared.rsp"
+"D:\OperationOperationKelpieStudios\playtest\Source\PickUp\ObjStaticMesh.cpp"
+/FI"D:\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"D:\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\Definitions.PickUp.h"
+/Yu"D:\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"D:\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\PickUpEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"D:\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\ObjStaticMesh.cpp.obj"
+/sourceDependencies "D:\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\ObjStaticMesh.cpp.dep.json"
+@"D:\OperationOperationKelpieStudios\playtest\Intermediate\Build\Win64\x64\UnrealEditor\Development\PickUp\PickUp.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
